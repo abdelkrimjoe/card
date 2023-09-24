@@ -1,0 +1,44 @@
+[
+    {
+      "nom": "Tom crouse",
+      "Job": "ingénieur IT",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, necessitatibus!",
+      "photo":"./image/1.jpg"
+    },
+    {
+        "nom": "Angilina Jollie",
+        "Job": "avocat",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, necessitatibus!",
+        "photo":"./image/2.jpg"
+    },
+    {
+        "nom": "Mohamed Ali",
+        "Job": "agent securité",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, necessitatibus!",
+        "photo":"./image/3.jpg"
+      },
+      {
+        "nom": "Ali moloud",
+        "Job": "Stagiere",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, necessitatibus!",
+        "photo":"./image/4.jpg"
+      },
+      {
+        "nom": "Ahmed Jaber",
+        "Job": "Agent du bureau",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, necessitatibus!",
+        "photo":"./image/5.jpg"
+      },
+      {
+        "nom": "plan A",
+        "Job": "Graphique Disgner",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, necessitatibus!",
+        "photo":"./image/6.png"
+      },
+      {
+        "nom": "Naruto",
+        "Job": "Econome",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, necessitatibus!",
+        "photo":"./image/7.jpg"
+      }
+  ]
